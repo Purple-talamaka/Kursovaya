@@ -1,0 +1,12 @@
+﻿  Kursovya_tochno_last_version.cpp
+D:\Univer\Kursovya_tochno_last_version\Kursovya_tochno_last_version\Kursovya_tochno_last_version.cpp(121,15): warning C4244: инициализация: преобразование "_Ty" в "int", возможна потеря данных
+D:\Univer\Kursovya_tochno_last_version\Kursovya_tochno_last_version\Kursovya_tochno_last_version.cpp(121,15): warning C4244:         with
+D:\Univer\Kursovya_tochno_last_version\Kursovya_tochno_last_version\Kursovya_tochno_last_version.cpp(121,15): warning C4244:         [
+D:\Univer\Kursovya_tochno_last_version\Kursovya_tochno_last_version\Kursovya_tochno_last_version.cpp(121,15): warning C4244:             _Ty=double
+D:\Univer\Kursovya_tochno_last_version\Kursovya_tochno_last_version\Kursovya_tochno_last_version.cpp(121,15): warning C4244:         ]
+D:\Univer\Kursovya_tochno_last_version\Kursovya_tochno_last_version\Kursovya_tochno_last_version.cpp(146,15): warning C4244: инициализация: преобразование "_Ty" в "int", возможна потеря данных
+D:\Univer\Kursovya_tochno_last_version\Kursovya_tochno_last_version\Kursovya_tochno_last_version.cpp(146,15): warning C4244:         with
+D:\Univer\Kursovya_tochno_last_version\Kursovya_tochno_last_version\Kursovya_tochno_last_version.cpp(146,15): warning C4244:         [
+D:\Univer\Kursovya_tochno_last_version\Kursovya_tochno_last_version\Kursovya_tochno_last_version.cpp(146,15): warning C4244:             _Ty=double
+D:\Univer\Kursovya_tochno_last_version\Kursovya_tochno_last_version\Kursovya_tochno_last_version.cpp(146,15): warning C4244:         ]
+  Kursovya_tochno_last_version.vcxproj -> D:\Univer\Kursovya_tochno_last_version\x64\Debug\Kursovya_tochno_last_version.exe
